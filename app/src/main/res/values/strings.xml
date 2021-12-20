@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">class_android_v3</string>
+    <string name="app_name">My Lotto App</string>
+    <string name="sAddNumberText">번호추가하기</string>
+    <string name="sInitNumber">초기화하기</string>
+    <string name="sGameStart">게임실행하기</string>
 </resources>
